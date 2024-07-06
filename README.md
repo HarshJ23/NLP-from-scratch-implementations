@@ -1,4 +1,4 @@
- ## VectorDB_from_scratch
+ ## Building a Vector Database from scratch
 
 Implementation of a simple vector database from scratch using Python and NumPy.
 
